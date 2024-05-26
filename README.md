@@ -9,7 +9,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=node.js,laravel,symfony,wordpress," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,symfony,wordpress," /> <br /><br />
 
 ## DB and Dev Tools etc
 
