@@ -12,4 +12,4 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse,phpStorm,figma," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse,phpstorm,figma," /> <br /><br />
