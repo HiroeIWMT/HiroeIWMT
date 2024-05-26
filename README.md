@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me (●´ω｀●)
 
-<!--
-**HiroeIWMT/HiroeIWMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api/top-langs?username=HiroeIWMT&show_icons=true&locale=en&layout=compact)
 
-Here are some ideas to get you started:
+## Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=html,css,JavaScript,Java,php," /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=symfony,laravel,wordpress,evoCMS," /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse,phpStorm,figma," /> <br /><br />
