@@ -1,5 +1,8 @@
 # About Me 🐸
 
+Hi I'm Hiroe, I'm japanese and I live in France.
+
+I'm a junior developper!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=HiroeIWMT&show_icons=true&locale=en&layout=compact)
 
