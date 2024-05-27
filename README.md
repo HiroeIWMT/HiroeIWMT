@@ -2,7 +2,7 @@
 
 Hi I'm Hiroe, I'm japanese and I live in France.
 
-I'm a junior developper!
+I've been lerning developement since September 2023 at the ENI école informatique, I'm junior developper!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=HiroeIWMT&show_icons=true&locale=en&layout=compact)
 
